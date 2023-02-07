@@ -1,0 +1,1 @@
+positionForPages[26]={"page":26,"positions":[{"word":"Taiwan","left":0.338698,"top":0.458370,"width":0.321172,"height":0.098012}]};

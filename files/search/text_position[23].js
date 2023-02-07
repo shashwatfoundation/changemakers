@@ -1,0 +1,1 @@
+positionForPages[23]={"page":23,"positions":[{"word":"South","left":0.215761,"top":0.455964,"width":0.273672,"height":0.101083},{"word":"Korea","left":0.522370,"top":0.460104,"width":0.261583,"height":0.096944}]};

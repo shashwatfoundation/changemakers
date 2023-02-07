@@ -1,0 +1,1 @@
+positionForPages[15]={"page":15,"positions":[{"word":"Japan","left":0.360258,"top":0.460104,"width":0.277861,"height":0.122715}]};

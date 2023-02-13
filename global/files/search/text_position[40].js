@@ -1,0 +1,1 @@
+positionForPages[40]={"page":40,"positions":[{"word":"Annexure","left":0.082151,"top":0.469990,"width":0.259187,"height":0.059937},{"word":"39","left":0.963031,"top":0.952086,"width":0.013425,"height":0.011948}]};

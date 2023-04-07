@@ -1,1 +1,1 @@
-positionForPages[20]={"page":20,"positions":[{"word":"Singapore","left":0.262737,"top":0.458366,"width":0.475476,"height":0.124451}]};
+positionForPages[20]={"page":20,"positions":[]};

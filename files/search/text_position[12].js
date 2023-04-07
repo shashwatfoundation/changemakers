@@ -1,1 +1,1 @@
-positionForPages[12]={"page":12,"positions":[{"word":"Indonesia","left":0.282108,"top":0.457433,"width":0.439779,"height":0.099614}]};
+positionForPages[12]={"page":12,"positions":[]};

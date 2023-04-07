@@ -1,1 +1,1 @@
-positionForPages[9]={"page":9,"positions":[{"word":"India","left":0.394050,"top":0.457433,"width":0.215892,"height":0.098947}]};
+positionForPages[9]={"page":9,"positions":[]};

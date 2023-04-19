@@ -1,1 +1,0 @@
-positionForPages[45]={"page":45,"positions":[{"word":"Annexure","left":0.118482,"top":0.473532,"width":0.236652,"height":0.052860},{"word":"44","left":0.922592,"top":0.898948,"width":0.013359,"height":0.010063}]};

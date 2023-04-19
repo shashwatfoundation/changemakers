@@ -1,1 +1,1 @@
-positionForPages[28]={"page":28,"positions":[]};
+positionForPages[28]={"page":28,"positions":[{"word":"Thailand","left":0.300480,"top":0.457435,"width":0.397134,"height":0.098947}]};

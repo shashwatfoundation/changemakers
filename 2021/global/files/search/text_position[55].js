@@ -1,0 +1,1 @@
+positionForPages[55]={"page":55,"positions":[{"word":"Glossary","left":0.076895,"top":0.444602,"width":0.301661,"height":0.097607},{"word":"55","left":0.967612,"top":0.962525,"width":0.012155,"height":0.010825}]};

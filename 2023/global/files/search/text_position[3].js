@@ -1,0 +1,1 @@
+positionForPages[3]={"page":3,"positions":[{"word":"Index","left":0.428498,"top":0.463480,"width":0.156875,"height":0.063799}]};

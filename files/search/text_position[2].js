@@ -1,1 +1,1 @@
-positionForPages[2]={"page":2,"positions":[{"word":"Index","left":0.746525,"top":0.464132,"width":0.154058,"height":0.062660}]};
+positionForPages[1]={"page":2,"positions":[]};
